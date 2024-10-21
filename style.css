@@ -224,13 +224,13 @@ html,body{
 }
 .container3{
     background-color:dimgray;
-   
+    height: 430px;
     display: flex;
     
 }
   .left-to-right, .right-to-left {
     width: 45%;
-    padding: 20px;
+    padding: 100px;
  
     text-align: center;
     position: relative;
@@ -436,6 +436,9 @@ html,body{
  .footer1,.footer2{
     width: 40%;
  }
+ .footer2{
+    margin-top: 50px;
+ }
  .bx{
   color: brown;
   border: 2px solid white;
@@ -561,6 +564,12 @@ height:auto;
 }
 .resp1,.resp2,.resp3{
     display: flex;
+}
+.color{
+    padding: 10px;
+} 
+.container1{
+    margin-left: 90px;
 }
 @media (min-width:320px) and (max-width:600px){
     .color{
