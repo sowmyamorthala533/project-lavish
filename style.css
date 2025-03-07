@@ -703,7 +703,7 @@ height:auto;
 }
 .footer5{
     background-color:black;
-     height: 10%;
+     height: auto;
      width: 100%;
      border: 1px solid gray;
      padding: 10px;
