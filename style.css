@@ -1,4 +1,4 @@
-/* Container to position elements */
+/*Container to position elements*/
 *{
     margin: 0;
     padding: 0;
@@ -435,6 +435,7 @@ html,body{
  }
  .footer1,.footer2{
     width: 40%;
+    margin-left: 10px;
  }
  .footer2{
     margin-top: 50px;
@@ -588,9 +589,10 @@ height:auto;
     height: auto;
    }
    .container3{
-   margin-top:250px;
+   margin-top:730px;
    display: flex;
     flex-wrap: wrap;
+    height: auto;
    }
    .container1{
     margin-right: 150px;
@@ -628,12 +630,13 @@ height:auto;
    .footer2{
     width: 100%;
     height: auto;
+    margin-left: 10px;
    }
    footer{
     height:auto;
    } 
    .lavish{
-    margin-top: 40%;
+    margin-top: 40px;
    }
    .limca{
     width: 100%;
@@ -646,6 +649,7 @@ height:auto;
    }
    .back{
     height: auto;
+    
    }
    .kuij{
     width: 100%;
@@ -718,4 +722,3 @@ height:auto;
  width: 100%;
  border: 1px solid gray;
 }
-
